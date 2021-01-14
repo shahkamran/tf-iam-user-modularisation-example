@@ -13,3 +13,4 @@ output "password" {
 output "secret" {
  value = module.iam-user.secret
 }
+
