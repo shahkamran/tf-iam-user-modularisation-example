@@ -10,11 +10,8 @@ $ tree standard-structure/
 .
 
 ├── main.tf
-
 ├── variables.tf
-
 ├── outputs.tf
-
 
 
 $ tree complete-module/
