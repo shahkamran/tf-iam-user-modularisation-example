@@ -3,14 +3,17 @@
 
 This repository demonstrates how a simple terraform structure without any modules can be converted into modules.
 
-
+### Standard structure
 ```
 $ tree standard-structure/
 .
 ├── main.tf
 ├── variables.tf
 ├── outputs.tf
+```
 
+### Complete Module structure
+```
 $ tree complete-module/
 .
 ├── main.tf
