@@ -1,4 +1,4 @@
-# tf-iam-user-restricted
+# Terraform Modularisation Example
 
 
 This repository demonstrates how a simple terraform structure without any modules can be converted into modules.
