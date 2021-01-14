@@ -4,7 +4,7 @@
 This repository demonstrates how a simple terraform structure without any modules can be converted into modules.
 
 
-
+'''
 $ tree standard-structure/
 
 .
@@ -51,7 +51,7 @@ $ tree complete-module/
 │   ├── exampleB/
 
 │   ├── .../
-
+'''
 
 
 
