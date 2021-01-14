@@ -1,12 +1,20 @@
 # tf-iam-user-restricted
 
+
 This repository demonstrates how a simple terraform structure without any modules can be converted into modules.
 
+
+
 $ tree standard-structure/
+
 .
+
 ├── main.tf
+
 ├── variables.tf
+
 ├── outputs.tf
+
 
 
 $ tree complete-module/
