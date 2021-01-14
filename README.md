@@ -29,4 +29,5 @@ $ tree complete-module/
 │   ├── .../
 
 
+
 For more details please refer to - https://www.terraform.io/docs/modules/structure.html
